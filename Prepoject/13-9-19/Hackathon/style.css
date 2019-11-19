@@ -1,0 +1,20 @@
+.jumbotron{
+        color: white;
+        }
+.nav-item{
+    font-family: 'Muli', sans-serif;
+    padding-left: 50px;
+    font-size: 12px;
+    line-height: 1em;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 1px;
+    text-align: left;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.nav-link{
+    color: #818181;
+}
+

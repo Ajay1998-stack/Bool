@@ -1,0 +1,30 @@
+version : '3'
+services:
+  mongo:
+    image: mongo
+    command: mongod --port 27016
+    ports:
+      -   27016:27017
+    container_name: mongo-container
+    healthcheck:
+      test: "exit 0"
+    network_mode: host
+
+
+  spring:
+    image: spring-image
+    ports:
+      -  8085:8085
+#      2nd 8085 is from expose
+    container_name: spring-container
+    network_mode: host
+    healthcheck:
+      test: "exit 0"
+    build:
+      MongoDB/
+    restart: always
+    depends_on:
+      - mongo
+
+
+

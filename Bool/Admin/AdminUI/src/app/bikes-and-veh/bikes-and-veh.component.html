@@ -1,0 +1,34 @@
+<mat-form-field>
+        <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Search Here">
+      </mat-form-field>
+                
+                <table mat-table [dataSource]="dataSource" matSort class="mat-elevation-z8">
+                  <ng-container matColumnDef="no">
+                    <th mat-header-cell *matHeaderCellDef mat-sort-header> No </th>
+                    <td mat-cell *matCellDef="let element"> {{element.no}} </td>
+                  </ng-container>
+
+                  <ng-container matColumnDef="regno">
+                    <th mat-header-cell *matHeaderCellDef mat-sort-header> RegNo </th>
+                    <td mat-cell *matCellDef="let element"> {{element.regno}} </td>
+                  </ng-container>
+                
+                  <ng-container matColumnDef="availability">
+                    <th mat-header-cell *matHeaderCellDef mat-sort-header> Availability </th>
+                    <td mat-cell *matCellDef="let element"> {{element.availability}} </td>
+                  </ng-container>
+
+                  <ng-container matColumnDef="comments">
+                      <th mat-header-cell *matHeaderCellDef mat-sort-header> Comments </th>
+                      <td mat-cell *matCellDef="let element"> {{element.comments}} </td>
+                  </ng-container>
+
+                  <ng-container matColumnDef="station">
+                          <th mat-header-cell *matHeaderCellDef mat-sort-header> Station </th>
+                          <td mat-cell *matCellDef="let element"> {{element.station}} </td>
+                  </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+      </table> 
+

@@ -1,0 +1,8 @@
+[2019-11-18 09:37:50,735] INFO Shutting down the log cleaner. (kafka.log.LogCleaner)
+[2019-11-18 09:37:50,736] INFO [kafka-log-cleaner-thread-0]: Shutting down (kafka.log.LogCleaner)
+[2019-11-18 09:37:50,737] INFO [kafka-log-cleaner-thread-0]: Stopped (kafka.log.LogCleaner)
+[2019-11-18 09:37:50,737] INFO [kafka-log-cleaner-thread-0]: Shutdown completed (kafka.log.LogCleaner)
+[2019-11-18 09:38:33,745] INFO Starting the log cleaner (kafka.log.LogCleaner)
+[2019-11-18 09:38:33,840] INFO [kafka-log-cleaner-thread-0]: Starting (kafka.log.LogCleaner)
+[2019-11-18 09:41:42,350] INFO The cleaning for partition test-0 is aborted and paused (kafka.log.LogCleaner)
+[2019-11-18 09:41:42,351] INFO The cleaning for partition test-0 is aborted (kafka.log.LogCleaner)

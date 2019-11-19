@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ebd0292-2af7-4826-b8ff-ce4ce6b81aa0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PE-3/PE-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-4/PE4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-5/PE-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-5/src/main/java/com/stackroute/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-5/src/main/java/com/stackroute/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-5/src/main/java/com/stackroute/CountString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-5/src/main/java/com/stackroute/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-5/src/main/java/com/stackroute/frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-5/src/test/java/com/stackroute/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE-5/src/test/java/com/stackroute/TesstArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvcDemo/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvcDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvcDemo/.idea/artifacts/SpringMvcDemo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvcDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvcDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvcDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvcDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvcDemo/SpringMvcDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvcDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvcDemo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/XML1/XML1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/XML1/src/main/Resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/XML1/src/main/java/com/stackroute/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/XML1/src/main/java/com/stackroute/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/XML1/src/main/java/com/stackroute/domain/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/XML1/src/main/java/com/stackroute/domain/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/XML1/src/test/java/com/stackroute/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/annotations/src/main/java/com/stackroute/demo/BeanLifeCycleDemoBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XML tasks Spring/annotations/src/main/java/com/stackroute/demo/BeanPostProcessorDemoBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/DependencyInjection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/DependencyInjection/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/DependencyInjection/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/DependencyInjection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/DependencyInjection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/DependencyInjection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/DependencyInjection/src/main/java/com/stackroute/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/DependencyInjection/src/main/java/com/stackroute/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/DependencyInjection/src/main/java/com/stackroute/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/DependencyInjection/src/main/java/com/stackroute/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/DependencyInjection/src/test/java/com/stackroute/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/parallel to videos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parallel to videos/InversionControl/springioc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML tasks Spring/XML1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XML tasks Spring/XML1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML tasks Spring/XML1/src/main/java/com/stackroute/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/XML tasks Spring/XML1/src/main/java/com/stackroute/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML tasks Spring/annotations/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/XML tasks Spring/annotations/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML tasks Spring/annotations/src/main/java/com/stackroute/DataConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/XML tasks Spring/annotations/src/main/java/com/stackroute/DataConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML tasks Spring/annotations/src/main/java/com/stackroute/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/XML tasks Spring/annotations/src/main/java/com/stackroute/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML tasks Spring/annotations/src/main/java/com/stackroute/domain/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/XML tasks Spring/annotations/src/main/java/com/stackroute/domain/Actor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML tasks Spring/annotations/src/main/java/com/stackroute/domain/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/XML tasks Spring/annotations/src/main/java/com/stackroute/domain/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML tasks Spring/annotations/target/classes/com/stackroute/DataConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/XML tasks Spring/annotations/target/classes/com/stackroute/DataConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML tasks Spring/annotations/target/classes/com/stackroute/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/XML tasks Spring/annotations/target/classes/com/stackroute/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML tasks Spring/annotations/target/classes/com/stackroute/domain/Actor.class" beforeDir="false" afterPath="$PROJECT_DIR$/XML tasks Spring/annotations/target/classes/com/stackroute/domain/Actor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XML tasks Spring/annotations/target/classes/com/stackroute/domain/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/XML tasks Spring/annotations/target/classes/com/stackroute/domain/Movie.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S03x0VkSKlrWprYo05PZdLtUID" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ebd0292-2af7-4826-b8ff-ce4ce6b81aa0" name="Default Changelist" comment="" />
+      <created>1570686928073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570686928073</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
